@@ -48,7 +48,8 @@ Contributions are welcome! If you'd like to contribute to Crazy Car, please fork
 Wait for the second version soon!
 Thoughts :
   - Improving the environment.
-  - Some Bugs fixing.
+  - Fixing some bugs.
+  - Deployment/Demo
 
 ---
 
