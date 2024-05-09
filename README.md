@@ -14,11 +14,10 @@ Crazy Car is am interesting 3D game developed using Unity and C#. As a player, y
 
 ## Screenshots
 
-![Level 1](![image](https://github.com/Ahmad3oda/CrazyCar-3DGame/assets/104653414/2fe3f128-64ca-499d-891a-15af27ae2c68))
+![Level 1]([image](https://github.com/Ahmad3oda/CrazyCar-3DGame/assets/104653414/2fe3f128-64ca-499d-891a-15af27ae2c68))
 *Screenshot: Gameplay in Level 1*
 
-![Level 2](![image](https://github.com/Ahmad3oda/CrazyCar-3DGame/assets/104653414/8ed5688f-5a1a-4461-8ea1-4c1f9f1589a6)
-)
+![Level 2]([image](https://github.com/Ahmad3oda/CrazyCar-3DGame/assets/104653414/8ed5688f-5a1a-4461-8ea1-4c1f9f1589a6))
 *Screenshot: Driving through raining cars in Level 2*
 
 ## How to Play
@@ -37,8 +36,8 @@ Crazy Car is am interesting 3D game developed using Unity and C#. As a player, y
 
 - Developed by Me, totally original idea.
 - Assets used:
-  - [Car]([Asset Link](https://free3d.com/3d-model/low-poly-car-40967.html))
-  - [Rock]([Asset Link](https://www.turbosquid.com/3d-models/game-ready-rock-model-2111222))
+  - [Car](https://free3d.com/3d-model/low-poly-car-40967.html)
+  - [Rock](https://www.turbosquid.com/3d-models/game-ready-rock-model-2111222)
 
 ## Contributing
 
