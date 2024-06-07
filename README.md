@@ -1,6 +1,6 @@
 # Crazy Car Game
 
-Crazy Car is am interesting 3D game developed using Unity and C#. As a player, you drive through challenging obstacles while collecting coins to advance to the next level. Dodge rocks, avoid raining cars and holes, and race against time (speed increases while time passing) to collect coins.
+Crazy Car is am interesting 3D game developed using Unity and C#. As a player, you drive through challenging obstacles while collecting coins to advance to the next level. Dodge rocks, avoid raining cars and holes, and race against time (speed increases while time passing) to collect coins. [Click here for Demo!](https://ahmadouda.itch.io/crazy-car)
 
 ## Features
 
