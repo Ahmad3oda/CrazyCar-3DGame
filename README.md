@@ -1,12 +1,12 @@
 # Crazy Car Game
 
-Crazy Car is am interesting 3D game developed using Unity and C#. As a player, you drive through challenging obstacles while collecting coins to advance to the next level. Dodge rocks, avoid raining cars, and race against time (speed increases while time passing) to collect coins.
+Crazy Car is am interesting 3D game developed using Unity and C#. As a player, you drive through challenging obstacles while collecting coins to advance to the next level. Dodge rocks, avoid raining cars and holes, and race against time (speed increases while time passing) to collect coins.
 
 ## Features
 
 - Two levels with unique challenges:
   - Level 1: Dodge rocks and collect coins to progress.
-  - Level 2: Dodge rocks and avoid raining cars while collecting coins.
+  - Level 2: Dodge rocks, avoid raining cars or falling in holes while collecting coins. 
 - Rocks kill you, while cars don't, they are just for distraction.
 - Simple controls for an enjoyable gaming experience (the car automatically moves forward while you control left and right).
 - Speed increases as time passes, adding more of a challenge.
