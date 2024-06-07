@@ -49,7 +49,7 @@ Wait for the second version soon!
 Thoughts :
   - Improving the environment.
   - Fixing some bugs.
-  - Deployment/Demo
+  - Deployment/Demo (Done) [Click here for Demo!](https://ahmadouda.itch.io/crazy-car)
 
 ---
 
